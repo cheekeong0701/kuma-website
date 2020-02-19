@@ -1,0 +1,51 @@
+b{
+
+    color: #1b1b1b;
+    font-size: 16px;
+    font-family: "Work Sans", sans-serif;
+}
+h1,h2,h3,p{
+    text-align: center;
+    color: #1b1b1b;
+}
+h1,h2{
+  font-size: 38px;
+  font-family: "Work Sans", sans-serif;
+}
+h3,p{
+  font-size: 16px;
+  font-family: 'Source Sans Pro', arial, sans-serif;
+}
+
+
+/**BUTTON**/
+button{
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  outline: none;
+  text-decoration: none;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  
+  height: 60px;
+  width: 210px;
+  opacity: 1;
+  background-color: #ffffff;
+  border: 1px solid rgba(22, 76, 167, 0.6);
+      color: rgba(22, 76, 167, 1);
+      font-size: 12px;
+      font-weight: 500;
+      letter-spacing: 0.7px;
+}
+
+/**footer**/
