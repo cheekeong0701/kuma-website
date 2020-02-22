@@ -8,7 +8,9 @@
   font-size: 20px;
   font-family: "Work Sans", sans-serif;
 }
-
+a:hover {
+  color: #00bd00b2;
+}
 h1{
   font-weight: 900;
   font-family: "Work Sans", sans-serif;
@@ -73,6 +75,11 @@ button{
   font-weight: 500;
   letter-spacing: 3px;
 }
+button:hover {
+  color: white;
+  background-color: #1b1b1b;
+}
+
 label{
   font-weight: lighter;
 }
